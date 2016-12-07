@@ -1,0 +1,19 @@
+{
+  "name": "bomcms/adminlte",
+  "description": "AdminLTE backend theme",
+  "authors": [
+    {
+      "name": "Nguyễn Tuấn Siêu",
+      "email": "info@camxuyen.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "2.*",
+    "yiisoft/yii2-bootstrap": "2.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "bomcms\\": ""
+    }
+  }
+}
