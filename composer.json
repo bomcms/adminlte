@@ -1,6 +1,7 @@
 {
   "name": "bomcms/adminlte",
   "description": "AdminLTE backend theme",
+  "license": "MIT",
   "authors": [
     {
       "name": "Nguyễn Tuấn Siêu",
