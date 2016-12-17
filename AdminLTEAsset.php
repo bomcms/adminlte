@@ -10,6 +10,7 @@ class AdminLTEAsset extends AssetBundle
 
     public $css = [
         'css/font-awesome.css',
+        'css/skins/skin-blue-light.css',
         'css/AdminLTE.css'
     ];
 
