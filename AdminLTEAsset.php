@@ -15,7 +15,8 @@ class AdminLTEAsset extends AssetBundle
     ];
 
     public $js = [
-        'js/app.min.js'
+        'js/jquery.slimscroll.min.js',
+        'js/app.min.js',
     ];
 
     public $depends = [
